@@ -1,8 +1,7 @@
 EditTextView
 
 
-* 输入字母自动转换成大写。
-
+* 输入字母自动转换成大写。   
 这个法子有点枯燥，要将输入的26个字母由小写输出成大写。 
 ```
 EditText.setTransformationMethod(new ReplacementTransformationMethod() {
